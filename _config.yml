@@ -1,10 +1,10 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: FWS-86
+description: 假如再也见不到你，祝你早安、午安、晚安！.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://github.com/FWS-86/FWS-86.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
@@ -41,8 +41,8 @@ lsi: False
 username: FWS-86 #github username
 repo: FWS-86.github.io #github repository
 branch: master #branch
-relative_source: ../hanuman/ #source directory
-destination: ../hanuman-pages/ #destination directory
+relative_source: ../ #source directory
+destination: ../#destination directory
 source_url:  https://github.com/FWS-86/FWS-86.github.io #source repository url
 
 exclude:
