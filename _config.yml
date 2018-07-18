@@ -1,6 +1,6 @@
 # Site settings
 title: FWS-86
-description: 假如再也见不到你，祝你早安、午安、晚安！.
+description: 假如再也见不到你，祝你早安、午安、晚安！
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
@@ -42,7 +42,7 @@ username: FWS-86 #github username
 repo: FWS-86.github.io #github repository
 branch: master #branch
 relative_source: ../ #source directory
-destination: ../#destination directory
+destination: ../ #destination directory
 source_url:  https://github.com/FWS-86/FWS-86.github.io #source repository url
 
 exclude:
